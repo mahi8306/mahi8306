@@ -53,10 +53,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahi8306&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi8306&layout=compact&theme=radical)
 
 ⭐ *"Consistency and Skill Growth > Motivation"*
