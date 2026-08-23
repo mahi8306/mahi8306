@@ -41,7 +41,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+
 
 ---
 
